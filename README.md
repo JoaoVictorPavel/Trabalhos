@@ -3,11 +3,13 @@
 <h3 align="center"> Em andamento </h3>
 
 
-<p align="center"> Qualquer problema fale comigo </p>
+* Criador João Victor
+* Contribuidores
+
 
 ![Prancheta 4-100](https://user-images.githubusercontent.com/114868052/193465367-ff4405dd-856b-41fe-b788-cd3705346269.jpg)
 
-
+<p align="center"> Qualquer problema fale comigo </p>
 <p align="center"> Projeto administrado Por João victor  </p>
 <p align="center"> Em breve atualizaçoes  </p>
 
