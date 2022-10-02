@@ -8,9 +8,14 @@
 
 ![Prancheta 4-100](https://user-images.githubusercontent.com/114868052/193465367-ff4405dd-856b-41fe-b788-cd3705346269.jpg)
 
-<p align="center"> Qualquer problema fale comigo </p
+<h1 align="center"> Qualquer problema fale comigo </h1>
+  <p align="center">  Contatos  </p>
   
- # Contatos
+  <p> Whatsapp </p>
+  
+*      91 9134-3946
+
+<a href="https://www.instagram.com/pavelsempulmao/">Instagram</a>
   
 <h3 align="center"> Em andamento </h3>
 <p align="center">  Atualizaçoes  </p>
