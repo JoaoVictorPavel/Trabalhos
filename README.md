@@ -3,12 +3,14 @@
 <h3 align="center"> Em andamento </h3>
 
 
-
+<p align="center"> Qualquer problema fale comigo </p>
 
 
 
 <p align="center"> Projeto administrado Por João victor  </p>
 <p align="center"> Em breve atualizaçoes  </p>
+
+
 
 # Visite meu Perfil principal
 
